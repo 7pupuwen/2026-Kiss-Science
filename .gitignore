@@ -1,0 +1,15 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# 憑證與金鑰：絕對不要上傳
+.env
+qiskit-ibm.json
+.qiskit/
+*token*
+*apikey*
+
+# 系統檔
+.DS_Store
+Thumbs.db
