@@ -2,7 +2,7 @@
 
 歡迎！這裡是課程的實作教材。今天你會親手寫出一支量子程式，做出量子世界最神奇的現象之一：**糾纏**。
 
->  **請用筆電開啟下面的連結。** Colab 在手機上很難操作，手機上看這頁說明就好。
+>  **請用筆電開啟下面的連結。** 
 
 ##  課堂實作（模擬器）
 
@@ -39,6 +39,6 @@ Colab 預設的繪圖字型不支援中文，為了避免出現亂碼方塊，�
 - [IBM Quantum Composer](https://quantum.cloud.ibm.com/composer)：用拖拉的方式組量子電路
 - [研之有物：量子電腦的關鍵，中研院自製量子位元大揭密](https://research.sinica.edu.tw/superconducting-quantum-bit-technology-chung-ting-ke/)：認識台灣自製的超導量子電腦
 
-## 🙏 出處
+## 出處
 
 本教材改寫自 IBM Quantum Learning 課程〈[Build and run your first quantum program](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program)〉，並加入中文說明、課堂小實驗與挑戰題。
