@@ -6,14 +6,14 @@
 
 ##  課堂實作（模擬器）
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_ID/quantum-intro-course/blob/main/01_hello_quantum.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/７pupuwen/quantum-intro-course/blob/main/01_hello_quantum.ipynb)
 
 - **開啟後第一件事**：點選「檔案 → 在雲端硬碟中儲存副本」，你的修改才會被保存
 - **內容**：疊加與糾纏、Bell 態電路、shots 的意義、雜訊模擬、挑戰題
 
 ## 回家作業（真實量子電腦）
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_ID/quantum-intro-course/blob/main/02_homework_real_qpu.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/7pupuwen/quantum-intro-course/blob/main/02_homework_real_qpu.ipynb)
 
 - **需要準備**：免費的 [IBM Quantum Platform](https://quantum.cloud.ibm.com/) 帳號（選擇 Open Plan）
 - **內容**：把課堂上的電路送到 IBM 的真實量子電腦執行，和模擬器結果比較
