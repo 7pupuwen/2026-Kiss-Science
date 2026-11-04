@@ -6,7 +6,8 @@
 
 ##  課堂實作（模擬器）
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/７pupuwen/2026-Kiss-Science/blob/main/01_hello_quantum.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/7pupuwen/2026-Kiss-Science/blob/main/01_hello_quantum.ipynb)
+
 
 - **開啟後第一件事**：點選「檔案 → 在雲端硬碟中儲存副本」，你的修改才會被保存
 - **內容**：疊加與糾纏、Bell 態電路、shots 的意義、雜訊模擬、挑戰題
